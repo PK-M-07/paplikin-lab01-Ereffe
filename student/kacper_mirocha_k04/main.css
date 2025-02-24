@@ -1,0 +1,21 @@
+body {
+  background-color: #d5d5d5;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #4caf50;
+  border-radius: 5px;
+  width: 10%;
+}
+
+header {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 1px;
+  height: 10vh;
+}
